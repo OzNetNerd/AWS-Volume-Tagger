@@ -39,10 +39,10 @@ $ python3 VolumeTagger.py -l debug -b Name,Department -k Name -v UnattachedVolum
 08-Jan-19 23:46:23 - Found Volume ID: vol-09dcb414fd4f9254d
 08-Jan-19 23:46:23 - Volume is not attached to an instance. Setting tag "Name" to "UnattachedVolume"
 08-Jan-19 23:46:23 - Found Volume ID: vol-0222ac8f234290f41
-08-Jan-19 23:46:23 - Volume is attached to Instance ID i-0155363e62e1ee270 which has the following tags: [{'Key': 'CostCentre', 'Value': '123'}]
+08-Jan-19 23:46:23 - Volume is attached to Instance ID i-0155363e62e1ee270 which has the following approved tags: [{'Key': 'CostCentre', 'Value': '123'}]
 08-Jan-19 23:46:24 - Attached tags to volume
 08-Jan-19 23:46:24 - Found Volume ID: vol-0b5f83341c327a617
-08-Jan-19 23:46:24 - Volume is attached to Instance ID i-09f3f5341111176a5 which has the following tags: [{'Key': 'Owner', 'Value': 'John'}]
+08-Jan-19 23:46:24 - Volume is attached to Instance ID i-09f3f5341111176a5 which has the following approved tags: [{'Key': 'Owner', 'Value': 'John'}]
 08-Jan-19 23:46:24 - Attached tags to volume
 08-Jan-19 23:46:24 - Done.
 ```

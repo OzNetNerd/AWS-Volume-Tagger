@@ -123,7 +123,7 @@ class VolumeTagger:
                         continue
 
                     self.mod_log.debug(f'Volume is attached to Instance ID {instance_id} which has the following '
-                                       f'tags: {instance_tags}')
+                                       f'approved tags: {instance_tags}')
                     volume.create_tags(Tags=instance_tags)
                     self.mod_log.debug(f'Attached tags to volume')
 
