@@ -1,4 +1,6 @@
 # AWS Volume Tagger (AVT)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3fec2cb1-c77d-4975-97e3-054097a7f026.svg?orgId=401166500955)](https://app.soluble.cloud/repos/details/github.com/oznetnerd/aws-volume-tagger?orgId=401166500955)  
 ## Alpha Code
 
 **Note:** This code is still in the Alpha stage. Please test it before using it in a production environment.
